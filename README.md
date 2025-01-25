@@ -1,0 +1,1 @@
+Pipeline automatizado para configurar Logs Centralizados de um servidor NGINX utilizando o AWS CloudWatch Logs. Para entender o conceito de logs centralizados com CloudWatch, acesse o repositório [EC2Logs-Centralizados-CloudWatchLogs](https://github.com/nolascojoao/EC2Logs-Centralizados-CloudWatchLogs).
